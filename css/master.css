@@ -1,13 +1,51 @@
 body{
-  margin:auto;
+  margin:0;
   padding: 0;
+
+  background: #2980b9; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(90deg, #2980b9 , #2ecc71); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(90deg, #2980b9, #2ecc71); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(90deg, #2980b9, #2ecc71); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(90deg, #2980b9 , #2ecc71);
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+  font-family: 'Roboto', sans-serif;
 }
 
 .container {
-  margin: 10px;
+  margin: 20px;
 }
 
 .flex-center {
+  width: 100%;
+  padding: 0 50px;
   display: flex;
-  align-content: center;
+  justify-content: center;
+}
+#logo-titulo {
+  /*color: #002f6c;*/
+  color: #fefefe;
+  font-size: 60px;
+  /*border-bottom: 3px solid #002f6c;*/
+}
+.heading-novidade {
+  width: 100%+40px;
+  background-color: white;
+  margin:  0 -20px;
+  padding: 50px 0;
+}
+.container-content {
+  margin: auto;
+  width: 720px;
+}
+#titulo-banner {
+  color: #666;
+  font-size: 28px;
+}
+footer{
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
 }
