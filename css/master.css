@@ -13,13 +13,8 @@ h1,h2,h3,h4,h5,h6,p,a {
   font-family: 'Roboto', sans-serif;
 }
 
-.container {
-  margin: 20px;
-}
-
 .flex-center {
   width: 100%;
-  padding: 0 50px;
   display: flex;
   justify-content: center;
 }
@@ -27,12 +22,11 @@ h1,h2,h3,h4,h5,h6,p,a {
   /*color: #002f6c;*/
   color: #fefefe;
   font-size: 60px;
-  /*border-bottom: 3px solid #002f6c;*/
 }
 .heading-novidade {
-  width: 100%+40px;
+  width: 100%;
   background-color: white;
-  margin:  0 -20px;
+  margin:  0 0;
   padding: 50px 0;
 }
 .container-content {
