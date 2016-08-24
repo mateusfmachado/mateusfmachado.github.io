@@ -1,0 +1,13 @@
+body{
+  margin:auto;
+  padding: 0;
+}
+
+.container {
+  margin: 10px;
+}
+
+.flex-center {
+  display: flex;
+  align-content: center;
+}
