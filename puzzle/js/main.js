@@ -103,7 +103,7 @@ function readImage() {
             img.src = e.target.result;  
             img.onload = function () {
                 
-                resizeCanvas(this.width, this.height);
+                // resizeCanvas(this.width, this.height);
                 context.drawImage(img, 0, 0, this.width, this.height);
 
                 setBodyHeight(this.height);
