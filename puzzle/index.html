@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Photo to JIGSAW Puzzle</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        * {
+            font-family: Helvetica;
+            font-weight: 200;
+        }
+        input {
+            width: 90%;
+            padding: 5px 8px;
+            border-radius: 5px;
+        }
+        main {
+            width: 100%;
+            min-height: 100vh;           
+        }
+        .flex {
+            display: flex;
+        }
+        .vertical {
+            flex-direction: column;
+        }
+        .flex-1 {
+            flex: 1;
+        }
+        .flex-5 {
+            flex: 5;
+        }
+        .flex-center {
+            justify-content: center;
+            align-items: center;
+        }
+        .width-150 {
+            width: 500px;
+        }
+        .input-group {
+            margin: 5px 0;
+        }       
+        .heading {
+            background-color: rgb(47, 47, 47);
+        }
+        .body {
+            background-color: rgb(241, 241, 241)
+        }
+        .text-white {
+            color: #DEDEDE;
+        }
+    </style>   
+</head>
+<body>
+    <main class="flex vertical">
+        <div class="flex-1 flex flex-center vertical heading">
+            <div class="flex width-150 input-group">
+                <label class="flex-1 text-white" for="fileUpload">Imagem: </label>
+                <div class="flex-1 flex flex-center">
+                    <input class="flex-1 text-white" type='file' id="fileUpload" />
+                </div>
+            </div>
+            <div class="flex width-150 input-group">
+                <label class="flex-1 text-white" for="pecasMaior">Nº de Peças (Maior): </label>                
+                <div class="flex-1 flex flex-center">
+                    <input type="number" min="1" max="50" id="pecasMaior" />
+                </div>
+            </div>
+            <div class="flex width-150 input-group">
+                <label class="flex-1 text-white" for="pecasMaior">Nº de Peças (Menor): </label>
+                <div class="flex-1 flex flex-center">
+                    <input type="number" min="1" max="20" id="pecasMenor" />
+                </div>                
+            </div>
+            <div class="flex width-150 input-group">
+                <button onclick="printCanvas('canvas')">Imprimir</button>                
+            </div>                              
+        </div>
+        <div class="flex-5 body flex flex-center" id="body">
+            <canvas id="canvas" width="1280px" height="720px"></canvas> 
+        </div>
+    </main>   
+    <script src="js/main.js"></script>
+</body>
+</html>
