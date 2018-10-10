@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/desafio-ecommerce/desafio2/precache-manifest.7459c4bcee333c51d8237a82ed646ecb.js"
+  "/desafio-ecommerce/desafio2/precache-manifest.22f06e572426c5e7bd8b09e55abd364f.js"
 );
 
 workbox.clientsClaim();
