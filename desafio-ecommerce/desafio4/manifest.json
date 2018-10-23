@@ -1,0 +1,9 @@
+{
+  "short_name": "Processador AMD AM1 Sempron DC 2650 1.45 - K3 Distribuidora",
+  "name": "Processador AMD AM1 Sempron DC 2650 1.45 - K3 Distribuidora",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
