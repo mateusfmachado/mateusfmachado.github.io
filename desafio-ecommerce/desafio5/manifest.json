@@ -1,0 +1,9 @@
+{
+  "short_name": "Loja Renotech",
+  "name": "Loja Renotech",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ECB62E",
+  "background_color": "#222222"
+}
