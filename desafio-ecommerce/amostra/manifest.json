@@ -1,0 +1,9 @@
+{
+  "short_name": "Ampliee - Melhorando seu site",
+  "name": "Ampliee - Melhorando seu site",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5B130B",
+  "background_color": "#ffffff"
+}
