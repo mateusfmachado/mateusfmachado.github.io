@@ -1,0 +1,9 @@
+{
+  "short_name": "Relojoaria Impala",
+  "name": "Relojoaria Impala",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0090D0",
+  "background_color": "#ffffff"
+}
