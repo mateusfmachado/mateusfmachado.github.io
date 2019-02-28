@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.bc1f5c9f.chunk.css",
-  "main.js": "/static/js/main.e22c6633.chunk.js",
-  "main.js.map": "/static/js/main.e22c6633.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.bc1f5c9f.chunk.css.map": "/static/css/main.bc1f5c9f.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.241944e95ed8450589ce2cadfa9eebe9.js": "/precache-manifest.241944e95ed8450589ce2cadfa9eebe9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/desafio-ecommerce/desafio8/static/css/main.02a0cec1.chunk.css",
+  "main.js": "/desafio-ecommerce/desafio8/static/js/main.aa39601e.chunk.js",
+  "main.js.map": "/desafio-ecommerce/desafio8/static/js/main.aa39601e.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/desafio-ecommerce/desafio8/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/desafio-ecommerce/desafio8/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/desafio-ecommerce/desafio8/static/js/runtime~main.c4ad888f.js",
+  "runtime~main.js.map": "/desafio-ecommerce/desafio8/static/js/runtime~main.c4ad888f.js.map",
+  "static/css/main.02a0cec1.chunk.css.map": "/desafio-ecommerce/desafio8/static/css/main.02a0cec1.chunk.css.map",
+  "index.html": "/desafio-ecommerce/desafio8/index.html",
+  "precache-manifest.25138c889db8383a3f22408f9b6fd613.js": "/desafio-ecommerce/desafio8/precache-manifest.25138c889db8383a3f22408f9b6fd613.js",
+  "service-worker.js": "/desafio-ecommerce/desafio8/service-worker.js"
 }
