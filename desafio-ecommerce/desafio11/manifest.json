@@ -1,0 +1,9 @@
+{
+  "short_name": "Massa Corrida 26kg Kolimar - CasaShow-2018",
+  "name": "Massa Corrida 26kg Kolimar - CasaShow-2018",
+  "icons": [ ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
