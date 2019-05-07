@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/desafio-ecommerce/desafio16/static/css/main.1271979b.chunk.css",
+    "main.js": "/desafio-ecommerce/desafio16/static/js/main.ab054c86.chunk.js",
+    "main.js.map": "/desafio-ecommerce/desafio16/static/js/main.ab054c86.chunk.js.map",
+    "runtime~main.js": "/desafio-ecommerce/desafio16/static/js/runtime~main.4062cd63.js",
+    "runtime~main.js.map": "/desafio-ecommerce/desafio16/static/js/runtime~main.4062cd63.js.map",
+    "static/js/2.2752fb64.chunk.js": "/desafio-ecommerce/desafio16/static/js/2.2752fb64.chunk.js",
+    "static/js/2.2752fb64.chunk.js.map": "/desafio-ecommerce/desafio16/static/js/2.2752fb64.chunk.js.map",
+    "index.html": "/desafio-ecommerce/desafio16/index.html",
+    "precache-manifest.2f7b7bce6381236dd33468f0b83db104.js": "/desafio-ecommerce/desafio16/precache-manifest.2f7b7bce6381236dd33468f0b83db104.js",
+    "service-worker.js": "/desafio-ecommerce/desafio16/service-worker.js",
+    "static/css/main.1271979b.chunk.css.map": "/desafio-ecommerce/desafio16/static/css/main.1271979b.chunk.css.map"
+  }
+}
